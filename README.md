@@ -18,5 +18,9 @@ A notable "hacky" detail is our current yield accounting: instead of minting int
 
 ZK proofs and Merkle trees using Circom, effectively, "stubbing" the heavy cryptography to focus on the yield integration first.
 
+## Grants and Equity
+
+We are looking for grants/investments to continue working on the project. Could you check the team's profile and reach out to us?                                  
+
 
 
